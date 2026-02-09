@@ -13,7 +13,7 @@ Based in **Singapore** 🇸🇬, I am passionate about building scalable solutio
 **Languages & Core:**
 * **Python** (Data Science, Backend, Automation)
 * **Java** (Enterprise Backend)
-* **SQL** (Oracle)
+* **Database** (Oracle, Postgres, MongoDB)
 
 **AI & Machine Learning:**
 * **Frameworks:** LangChain, LlamaIndex
