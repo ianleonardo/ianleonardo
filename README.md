@@ -11,7 +11,7 @@ Based in **Singapore** 🇸🇬, I am passionate about building scalable solutio
 ### 🛠️ Technical Stack
 
 **Languages & Core:**
-* **Python** (Data Science, Backend, Automation)
+* **Python** (Data Science, ML, AI)
 * **Java** (Enterprise Backend)
 * **Database** (Oracle, Postgres, MongoDB)
 
