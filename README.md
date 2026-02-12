@@ -30,13 +30,18 @@ Here is what I am currently building and experimenting with:
 
 * **📊 SG Job Market Dashboard**
     * *Tech:* Python, Streamlit, Pandas
-    * *Description:* A data visualization dashboard analyzing trends in the Singapore job market to provide actionable insights for job seekers, recruiters, and training provider.
-    * * in-progress*
+    * *Description:* (NTU Capstone Project) A data visualization dashboard analyzing trends in the Singapore job market to provide actionable insights for job seekers, recruiters, and training provider.
+    * *https://ntu-m1-capstone.theluwak.com*
 
 * **🥗 AI Calorie Estimator**
     * *Tech:* Python, Computer Vision / Multimodal LLMs
     * *Description:* A web-based application that estimates food calories from uploaded images using image recognition and AI.
     * *https://health.theluwak.com*
+
+* **🥗 AI Bible Study**
+    * *Tech:* Python, Flask, LLM
+    * *Description:* A web-based Bible study app featuring expert-style chat guidance and interactive quizzes.
+    * *https://bible.theluwak.com*
 
 * **📂 Personal Cloud Portfolio**
     * *Tech:* Python, Cloud Deployment
