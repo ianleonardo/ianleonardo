@@ -24,26 +24,31 @@ Based in **Singapore** 🇸🇬, I am passionate about building scalable solutio
 
 ---
 
-### 🔭 Current Projects
+### ✅ Completed & Active Projects
 
-Here is what I am currently building and experimenting with:
+Here are my completed and active projects:
 
-* **📊 SG Job Market Dashboard**
+* **🚀 Insider Alpha** (Latest)
+    * *Tech:* Python, Data Analytics, Financial Markets
+    * *Description:* Advanced financial market analysis and trading intelligence platform leveraging AI-driven insights for insider market trends.
+    * *Status:* Active Development
+
+* **📊 SG Job Market Dashboard** ✅
     * *Tech:* Python, Streamlit, Pandas
     * *Description:* (NTU Capstone Project) A data visualization dashboard analyzing trends in the Singapore job market to provide actionable insights for job seekers, recruiters, and training provider.
     * *https://ntu-m1-capstone.theluwak.com*
 
-* **🥗 AI Calorie Estimator**
+* **🥗 AI Calorie Estimator** ✅
     * *Tech:* Python, Computer Vision / Multimodal LLMs
     * *Description:* A web-based application that estimates food calories from uploaded images using image recognition and AI.
     * *https://health.theluwak.com*
 
-* **🥗 AI Bible Study**
+* **📖 AI Bible Study** ✅
     * *Tech:* Python, Flask, LLM
     * *Description:* A web-based Bible study app featuring expert-style chat guidance and interactive quizzes.
     * *https://bible.theluwak.com*
 
-* **📂 Personal Cloud Portfolio**
+* **📂 Personal Cloud Portfolio** ✅
     * *Tech:* Python, Cloud Deployment
     * *Description:* A self-hosted personal website connecting to a backend database, designed to showcase my portfolio and host my experimental apps.
     * *https://www.theluwak.com*
