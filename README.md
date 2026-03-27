@@ -54,12 +54,6 @@ Here are my completed and active projects:
     * *https://www.theluwak.com*
 
 ---
-### 📈 Analytics & Interests
-
-* **Financial Markets:** I apply technical analysis (Ichimoku, MACD, RSI) to market data and enjoy building scripts to automate stock performance tracking (specifically for SG markets).
-* **Continuous Learning:** Currently deep-diving into **Java 21** features and advanced **RAG** patterns.
-
----
 
 ### 📫 Connect with Me
 
