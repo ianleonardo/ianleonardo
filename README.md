@@ -28,7 +28,7 @@ Based in **Singapore** 🇸🇬, I am passionate about building scalable solutio
 
 Here are my completed and active projects:
 
-* **🚀 HDB Resale Price Estimator ** (Latest)
+* **🏢 HDB Resale Price Estimator** (Latest)
     * *Tech:* Python, Machine Learning, Telegram Bot
     * *Description:* Applies Machine Learning (combination of CatBoost and ARIMA) to estimate HDB resale price and utilizes Telegram chatbot for conversation.
     * *t.me/hdb_resaleprice_bot*
