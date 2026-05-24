@@ -28,10 +28,15 @@ Based in **Singapore** 🇸🇬, I am passionate about building scalable solutio
 
 Here are my completed and active projects:
 
-* **🚀 Insider Alpha** (Latest)
+* **🚀 HDB Resale Price Estimator ** (Latest)
+    * *Tech:* Python, Machine Learning, Telegram Bot
+    * *Description:* Applies Machine Learning (combination of CatBoost and ARIMA) to estimate HDB resale price and utilizes Telegram chatbot for conversation.
+    * *t.me/hdb_resaleprice_bot*
+
+* **🚀 Insider Alpha** 
     * *Tech:* Python, Data Analytics, Financial Markets
     * *Description:* Advanced financial market analysis and trading intelligence platform leveraging AI-driven insights for insider market trends.
-    * *Status:* Active Development
+    * *https://insideralpha.theluwak.com*
 
 * **📊 SG Job Market Dashboard** ✅
     * *Tech:* Python, Streamlit, Pandas
